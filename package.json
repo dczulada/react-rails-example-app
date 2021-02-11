@@ -9,6 +9,7 @@
     "fhir-visualizers": "^0.0.2",
     "leaflet": "^1.6.0",
     "react": "^16.9.0",
+    "react-object-inspector": "^0.2.1",
     "react-dom": "^16.9.0",
     "react-dropzone": "^11.2.4",
     "react-leaflet": "^2.6.1",
