@@ -5,9 +5,16 @@
     "@rails/webpacker": "^3.0.1",
     "babel-preset-react": "^6.24.1",
     "prop-types": "^15.6.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react_ujs": "^2.2.1"
+    "react_ujs": "^2.2.1",
+    "fhir-visualizers": "^0.0.2",
+    "leaflet": "^1.6.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-dropzone": "^11.2.4",
+    "react-leaflet": "^2.6.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.1.1",
+    "bootstrap": "4.4.1"
   },
   "devDependencies": {
     "webpack-dev-server": ">=3.1.11"
